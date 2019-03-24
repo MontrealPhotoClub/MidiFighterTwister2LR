@@ -68,7 +68,7 @@ I've left 8 unmapped knobs (hence 8 unmapped boutons too) and 1 unmapped lateral
 | Bank 4 |   |   | Pressed knob resets value |
 |-------|---|---|---------------------------|
 | Shadow Tint | Red Hue | Green Hue | Blue Hue |
-| Free | Red Saturation | Green Saturation | Blue Saturation |
+| PostCropVignette | Red Saturation | Green Saturation | Blue Saturation |
 | Free | Free | Free | Free |
 | Free | Free | Free | Free |
 
